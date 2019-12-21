@@ -21,5 +21,5 @@ public class LeftRotation{
             System.out.print(b[i]+" ");
         }
     }
-
+      
 }
